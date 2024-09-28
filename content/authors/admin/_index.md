@@ -141,6 +141,6 @@ awards:
 ## Hi there, I'm Moritz!
 
 I am a PhD student in Computer Science at ETH Zurich under the supervision of Prof. Julia Vogt and Prof. Bjoern Menze. 
-My research is motivated by the desire to understand the decision-making process of machine learning models and leveraging this extracted knowledge to develop more capable architectures. To this end, I design interpretable methods that provide insights into the inner workings of machine learning models. Additionally, I work on incorporating domain knowledge into generative models.
+My research is motivated by the desire to understand the inner workings of machine learning models and leveraging this extracted knowledge to guide their behavior. To this end, I design interpretable methods that provide insights into the decision-making process of machine learning models, with a focus on visual perception. Subsequently, I work on incorporating domain knowledge into generative models to improve the steerability of generations.
 
 So far, my research has been honored with a Spotlight at NeurIPS, and an Oral and Spotlight at ICLR and ICML workshops, respectively. Additionally, I am recipient of the Willi-Studer Prize for the best master's degree in Statistics.
