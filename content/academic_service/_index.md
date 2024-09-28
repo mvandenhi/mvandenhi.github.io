@@ -7,19 +7,40 @@ design:
 
 sections:
   - block: markdown
-    id: section-1
+    id: peer-reviewing
     content:
-      title: Section 1
-      subtitle: A subtitle
+      title: Peer Reviewing
+      subtitle: 
       text: |
         - **2024** Neural Information Processing Systems
         - **2024** Models of Human Feedback for AI Alignment Workshop at ICML
         - **2023** Deep Generative Models for Health Workshop at NeurIPS
+  
   - block: markdown
-    id: section-2
+    id: theses-supervision
     content:
-      title: Section 2
-      subtitle: A subtitle
+      title: Theses Supervision
+      subtitle: 
       text: |
-        Add your Section 2 content here...
+        - **2024** Bernold, N. “Generative B-Cos Networks” 
+        - **2024** Hoffmann, W. “Post-Hoc Stochastic Concept Bottleneck Models” 
+        - **2024** Ebeling, N. “Time and Spectral Diffusion Models for Cardiac Time-Series” 
+        - **2024** Makonnen, M. “Measuring Leakage in Concept Bottleneck Models” 
+        - **2024** Carballo, A. “Interpretable Capabilities of Concept-Enhanced Diffusion and Prototype Networks”
+        - **2024** Dekas, D. “Clinical Evaluation of Antibiotic Reducing ML Method”
+        - **2024** Gonçalves, J. “Enhancing TreeVAE with Diffusion Models”
+        - **2023** Scherrer, D. “DREAM: Detecting and Reducing Excessive Antibiotic Medication using ML”
+  
+  - block: markdown
+    id: teaching-assistantship
+    content:
+      title: Teaching Assistantship
+      subtitle: 
+      text: |
+        - **2024** Advanced Machine Learning (252-0535-00)
+        - **2023 – 2024** Machine Learning for Healthcare (261-5120-00)
+        - **2023** Foundations of Computer Science (252-0852-00)
+        - **2019 – 2022** Statistics (03SM22AOEC10)
+        - **2019 – 2022** Introductory Econometrics (BOEC0004)
+
 ---
