@@ -32,7 +32,7 @@ profiles:
   - icon: brands/linkedin
     url: http://www.linkedin.com/in/moritz-vandenhirtz
   - icon: brands/github
-    url: https://github.com/mvandenhi?tab=repositories
+    url: https://github.com/mvandenhi
 
 interests:
   - Generative AI 
