@@ -2,9 +2,11 @@
 title: Academic Service
 type: landing
 
+design:
+  spacing: '5rem'
+
 sections:
   - block: collection
-    id: teaching
     content:
       title: Teaching
       items:
