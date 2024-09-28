@@ -112,8 +112,6 @@ languages:
   - name: German
   - name: English
   - name: French
-  design:
-    - show_skill_percentage: false
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
