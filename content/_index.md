@@ -7,8 +7,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  background:
-    color: navy
 
 sections:
   - block: resume-biography-3
@@ -21,7 +19,6 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
       background:
         color: system
         # image:

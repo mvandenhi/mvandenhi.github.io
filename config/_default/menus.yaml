@@ -13,6 +13,6 @@ main:
   - name: Background
     url: experience/
     weight: 15
-  - name: Teaching
+  - name: Academic Service
     url: teaching/
     weight: 40
