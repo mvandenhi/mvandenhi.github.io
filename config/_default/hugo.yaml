@@ -29,6 +29,15 @@ cascade:
     reading_time: false
     share: false
 
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /publications/**
+    profile: false
+    show_date: false
+    reading_time: false
+    share: false
+
 
 
 
