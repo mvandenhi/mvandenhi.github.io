@@ -6,6 +6,8 @@ cms_exclude: true
 view: citation
 
 profile: false
+design:
+  profile: false
 
 
 # Optional header image (relative to `static/media/` folder).
