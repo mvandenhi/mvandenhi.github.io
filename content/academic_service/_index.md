@@ -5,6 +5,8 @@ type: landing
 design:
   spacing: '5rem'
 
+text: Test
+
 sections:
   - block: markdown
     id: peer-reviewing
