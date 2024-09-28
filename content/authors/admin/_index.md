@@ -98,9 +98,6 @@ skills:
       - name: MATLAB
         description: ''
         icon: devicon/matlab
-      - name: SQL
-        description: ''
-        icon: devicon/sql
 
 languages:
   - name: German
