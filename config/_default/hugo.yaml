@@ -30,7 +30,6 @@ cascade:
     share: false
 
 cascade:
-  # Configure blog posts
   - _target:
       path: /publications/**
     profile: false
