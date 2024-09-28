@@ -128,8 +128,7 @@ awards:
     awarder: ETH Zurich
   - title: Member of Swiss Study Foundation
     url: https://www.studyfoundation.ch/
-    date_start: 2021-01-31
-    date_end: 2023-01-31
+    date: 2021-01-31
     awarder: Swiss Study Foundation
   - title: Summa cum Laude distinction by University of Zurich for B.A. in Business and Economics
     date: 2020-01-31
