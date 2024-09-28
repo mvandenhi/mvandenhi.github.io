@@ -43,17 +43,17 @@ education:
   - area: PhD Student in Machine Learning
     institution: ETH Zurich
     date_start: 2022-01-31
-    date_end: 2026-12-31
+    date_end: ''
   - area: Master of Science in Statistics
     institution: ETH Zurich
     date_start: 2020-01-31
-    date_end: ''
+    date_end: 2022-01-31
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
   - area: Bachelor of Arts in Business and Economics
     institution: University of Zurich
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-01-31
+    date_end: 2020-01-31
     summary: |
       GPA: 5.84 / 6 (Class Rank 2)
 work:
@@ -61,8 +61,8 @@ work:
     company_name: Allianz Suisse
     company_url: ''
     company_logo: ''
-    date_start: 2019
-    date_end: ''
+    date_start: 2019-08-31
+    date_end: 2019-12-31
     summary: |2-
       Responsibilities include:
       - Forecasting
@@ -102,22 +102,23 @@ skills:
 awards:
   - title: Oral and 6 Posters at ICML Workshops
     url: https://icml.cc/virtual/2024/workshop/29969
-    date: 2024
+    date: 2024-01-31
     awarder: ICML
   - title: Spotlight Poster at NeurIPS
     url: https://neurips.cc/virtual/2023/poster/71188
-    date: 2023
+    date: 2023-01-31
     awarder: NeurIPS
   - title: Willi Studer Prize by ETH Zurich for the best master’s degree in Statistics (D-MATH)
     url: https://ethz.ch/en/the-eth-zurich/education/awards/willi-studer-prize.html
-    date: 2022
+    date: 2022-01-31
     awarder: ETH Zurich
   - title: Member of Swiss Study Foundation
     url: https://www.studyfoundation.ch/
-    date: 2021
+    date_start: 2021-01-31
+    date_end: 2023-01-31
     awarder: Swiss Study Foundation
   - title: Summa cum Laude distinction by University of Zurich for B.A. in Business and Economics
-    date: 2020
+    date: 2020-01-31
     awarder: University of Zurich
 ---
 
