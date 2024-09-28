@@ -121,7 +121,7 @@ awards:
     url: https://ethz.ch/en/the-eth-zurich/education/awards/willi-studer-prize.html
     date: 2022
     awarder: ETH Zurich
-  - title: Mentored by Swiss Study Foundation
+  - title: Member of Swiss Study Foundation
     url: https://www.studyfoundation.ch/
     date: 2021
     awarder: Swiss Study Foundation
