@@ -46,8 +46,8 @@ education:
     date_end: ''
     summary: |
       My research focuses on:
-      - Developing interpretable Machine Learning methods that provide human-understandable explanations for their behavior. 
-      - Designing Generative Methods, based on Diffusion Models and VAEs, that incorporate structural constraints such as an internal hierarchy into the generative process.
+      - Developing Interpretable Machine Learning methods that provide human-understandable explanations of their behavior. 
+      - Designing Generative Methods, based on Diffusion Models and VAEs, that incorporate structural constraints, such as an internal hierarchy, into the generative process.
       - Advancing Computer Vision by aligning instance-wise feature selection in images with human-like object perception to better reflect how we understand visual information. 
   - area: Master of Science in Statistics
     institution: ETH Zurich
@@ -55,6 +55,7 @@ education:
     date_end: 2022-01-31
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
+
       During my master's, I was intrigued by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits. Selected completed courses include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory
   - area: Bachelor of Arts in Business and Economics
     institution: University of Zurich
@@ -62,6 +63,7 @@ education:
     date_end: 2020-01-31
     summary: |
       GPA: 5.84 / 6 (Class Rank 2)
+      
       With a major in Banking & Finance and a minor in Statistics, my bachelor's has laid the foundation for my interest in quantitatively assessing and understanding the behavior of complex phenomena.
 work:
   - position: Data Science and Central Controlling Intern
