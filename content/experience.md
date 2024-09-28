@@ -18,6 +18,7 @@ sections:
       date_format: '2006'
       # Education or Experience section first?
       is_education_first: true
+      color: navy
   - block: resume-skills
     content:
       title: Skills 
@@ -31,10 +32,4 @@ sections:
     design:
       # Hugo date format
       date_format: '2006'
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
-    design:
-      show_skill_percentage: false
 ---
