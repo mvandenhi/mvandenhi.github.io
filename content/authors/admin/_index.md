@@ -92,6 +92,9 @@ skills:
       - name: LaTeX
         description: ''
         icon: devicon/latex
+      - name: Microsoft Office
+        description: ''
+        icon: custom/office
       - name: MATLAB
         description: ''
         icon: devicon/matlab
