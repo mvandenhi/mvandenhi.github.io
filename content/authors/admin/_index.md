@@ -55,6 +55,7 @@ education:
     date_end: 2022-01-31
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
+      During my master's, I was intrigued by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits. Selected courses I completed include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory
   - area: Bachelor of Arts in Business and Economics
     institution: University of Zurich
     date_start: 2017-01-31
