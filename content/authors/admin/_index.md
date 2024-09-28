@@ -35,7 +35,6 @@ profiles:
     url: https://github.com/mvandenhi
 
 interests:
-  - name: Test
   - Generative AI 
   - Interpretable ML
   - Computer Vision
@@ -45,6 +44,11 @@ education:
     institution: ETH Zurich
     date_start: 2022-01-31
     date_end: ''
+    summary: |
+      My research focuses on:
+      - Developing interpretable Machine Learning methods that provide human-understandable explanations for their behavior. 
+      - Designing Generative Methods, based on Diffusion Models and VAEs, that incorporate structural constraints such as an internal hierarchy into the generative process.
+      - Advancing Computer Vision by aligning instance-wise feature selection in images with human-like object perception to better reflect how we understand visual information. 
   - area: Master of Science in Statistics
     institution: ETH Zurich
     date_start: 2020-01-31
