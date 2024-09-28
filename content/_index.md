@@ -7,6 +7,8 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+  background:
+    color: navy
 
 sections:
   - block: resume-biography-3
