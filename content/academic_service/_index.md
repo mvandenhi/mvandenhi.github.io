@@ -9,7 +9,7 @@ sections:
   - block: markdown
     id: intro
     content: 
-      text: I firmly believe that being a researcher goes far beyond just publishing papers. Through dedicated and engaging teaching, as well as mentoring students via thesis supervision, we can make a far greater impact than any single publication could achieve. As such, I purposely devote a substantial amount of my time to nurturing the growth of future researchers and other professionals.
+      text: I firmly believe that being a researcher goes far beyond just publishing papers. Through dedicated and engaging teaching, as well as mentoring students via thesis supervision, we can make a far greater impact than any single publication could achieve. As such, I purposely devote a substantial amount of my time to contribute to the growth of future researchers and other professionals. 
   
   - block: markdown
     id: theses-supervision

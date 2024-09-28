@@ -138,6 +138,9 @@ awards:
     awarder: University of Zurich
 ---
 
-## About Me
+## Hi there, I'm Moritz!
 
-I am a PhD student in Computer Science at ETH Zurich under the supervision of Prof. Julia Vogt and Prof. Bjoern Menze. I am a member of the Medical Data Science group and associated with the ETH AI Center. My research focuses on incorporating domain knowledge into generative models, as well as designing interpretable methods that provide insights into the inner workings of ML models.
+I am a PhD student in Computer Science at ETH Zurich under the supervision of Prof. Julia Vogt and Prof. Bjoern Menze. 
+My research is motivated by the desire to understand the decision-making process of machine learning models and leveraging this extracted knowledge to develop more capable architectures. To this end, I design interpretable methods that provide insights into the inner workings of machine learning models. Additionally, I work on incorporating domain knowledge into generative models.
+
+So far, my research has been honored with a Spotlight at NeurIPS, and an Oral and Spotlight at ICLR and ICML workshops, respectively. Additionally, I am recipient of the Willi-Studer Prize for the best master's degree in Statistics.
