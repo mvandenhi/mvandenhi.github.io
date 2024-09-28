@@ -25,7 +25,13 @@ cascade:
   - _target:
       path: /content/publications/**
     profile: false
-    
+    show_date: false
+    reading_time: false
+    share: false
+
+
+
+
 build:
   writeStats: true
 enableGitInfo: false
