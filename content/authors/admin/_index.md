@@ -125,7 +125,7 @@ awards:
     url: https://neurips.cc/virtual/2023/poster/71188
     date: 2023-01-31
     awarder: NeurIPS
-  - title: Willi Studer Prize by ETH Zurich for the best master’s degree in Statistics (D-MATH)
+  - title: Willi Studer Prize for the best master’s degree in Statistics (D-MATH)
     url: https://ethz.ch/en/the-eth-zurich/education/awards/willi-studer-prize.html
     date: 2022-01-31
     awarder: ETH Zurich
@@ -133,7 +133,7 @@ awards:
     url: https://www.studyfoundation.ch/
     date: 2021-01-31
     awarder: Swiss Study Foundation
-  - title: Summa cum Laude distinction by University of Zurich for B.A. in Business and Economics
+  - title: Summa cum Laude distinction for B.A. in Business and Economics
     date: 2020-01-31
     awarder: University of Zurich
 ---
