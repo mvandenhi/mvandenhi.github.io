@@ -1,7 +1,7 @@
 ---
 title: 'Signal Is Harder To Learn Than Bias: Debiasing with Focal Loss'
 authors:
-- Moritz Vandenhirtz
+- admin
 - Laura Manduchi
 - Ričards Marcinkevičs
 - Julia E Vogt

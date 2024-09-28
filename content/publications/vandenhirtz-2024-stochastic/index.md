@@ -1,6 +1,5 @@
 ---
 title: Stochastic Concept Bottleneck Models
-profile: false
 
 authors:
 - admin copy

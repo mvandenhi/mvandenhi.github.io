@@ -2,7 +2,7 @@
 title: 'This Reads Like That: Deep Learning for Interpretable Natural Language Processing'
 authors:
 - Claudio Fanconi*
-- Moritz Vandenhirtz*
+- admin copy
 - Severin Husmann
 - Julia E Vogt
 date: '2023-01-01'

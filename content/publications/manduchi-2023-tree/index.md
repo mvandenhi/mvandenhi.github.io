@@ -2,7 +2,7 @@
 title: Tree Variational Autoencoders
 authors:
 - Laura Manduchi*
-- Moritz Vandenhirtz*
+- admin copy
 - Alain Ryser
 - Julia Vogt
 date: '2023-01-01'

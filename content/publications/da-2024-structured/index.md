@@ -3,7 +3,7 @@ title: 'Structured Generations: Using Hierarchical Clusters to guide Diffusion M
 authors:
 - Jorge da Silva Gonçalves
 - Laura Manduchi
-- Moritz Vandenhirtz
+- admin
 - Julia E Vogt
 date: '2024-01-01'
 publishDate: '2024-09-28T09:59:44.422857Z'

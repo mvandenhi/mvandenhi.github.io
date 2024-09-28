@@ -88,7 +88,7 @@ skills:
         icon: devicon/r
       - name: Git
         description: ''
-        icon: devicon/github
+        icon: devicon/git
       - name: LaTeX
         description: ''
         icon: devicon/latex

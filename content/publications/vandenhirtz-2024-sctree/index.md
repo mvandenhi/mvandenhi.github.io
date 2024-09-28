@@ -2,7 +2,7 @@
 title: 'scTree: Discovering Cellular Hierarchies in the Presence of Batch Effects
   in scRNA-seq Data'
 authors:
-- Moritz Vandenhirtz*
+- admin copy
 - Florian Barkmann*
 - Laura Manduchi
 - Julia E Vogt
