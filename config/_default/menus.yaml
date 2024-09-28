@@ -7,11 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: publication/
+  - name: Publications
+    url: publications/
     weight: 20
   - name: Background
-    url: experience/
+    url: background/
     weight: 15
   - name: Academic Service
     url: academic_service/
