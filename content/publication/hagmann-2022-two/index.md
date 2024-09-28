@@ -6,7 +6,7 @@ authors:
 - Venkat Ramakrishnan
 - Alexander Tamalunas
 - Marc Hofmann
-- Moritz Vandenhirtz
+- admin
 - Silvan Vollmer
 - Jsmea Hug
 - Philipp Niggli

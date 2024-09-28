@@ -46,8 +46,8 @@ education:
     date_end: 2026
   - area: Master of Science in Statistics
     institution: ETH Zurich
-    date_start: 2020
-    date_end: 2022
+    date_start: 2020-31-0
+    date_end: ''
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
   - area: Bachelor of Arts in Business and Economics
@@ -95,12 +95,6 @@ skills:
       - name: MATLAB
         description: ''
         icon: devicon/matlab
-
-languages:
-  - name: German
-  - name: English
-  - name: French
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -108,7 +102,7 @@ languages:
 awards:
   - title: Oral and 6 Posters at ICML Workshops
     url: https://icml.cc/virtual/2024/workshop/29969
-    date: 2024
+    date: '2024'
     awarder: ICML
   - title: Spotlight Poster at NeurIPS
     url: https://neurips.cc/virtual/2023/poster/71188
