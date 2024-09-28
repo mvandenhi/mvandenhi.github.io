@@ -28,8 +28,13 @@ sections:
     content:
       title: Awards
       username: admin
+    design:
+      # Hugo date format
+      date_format: '2006'
   - block: resume-languages
     content:
       title: Languages
       username: admin
+    design:
+      show_skill_percentage: false
 ---

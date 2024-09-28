@@ -72,7 +72,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical
     items:
       - name: Python
         description: ''
@@ -95,6 +95,20 @@ skills:
       - name: MATLAB
         description: ''
         icon: devicon/matlab
+  - name: Research
+    items:
+      - name: Computer Vision
+      - name: Deep Learning
+      - name: Foundation Models
+      - name: Generative AI
+      - name: Image Processing
+      - name: Intepretability
+      - name: Multimodality
+      - name: NLP
+languages:
+  - name: German
+  - name: English
+  - name: French
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
