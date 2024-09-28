@@ -7,7 +7,8 @@ authors:
 - Laura Manduchi
 - Julia E Vogt
 - Valentina Boeva
-date: '2024-01-01'
+date: '2024-07-26'
+lastmod: '2024-09-28'
 publishDate: '2024-09-28T09:59:44.410467Z'
 publication_types:
 - paper-conference

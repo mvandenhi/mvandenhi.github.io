@@ -5,7 +5,8 @@ authors:
 - admin copy
 - Alain Ryser
 - Julia Vogt
-date: '2023-01-01'
+date: '2023-12-20'
+lastmod: '2024-09-28'
 publishDate: '2024-09-28T09:59:44.392636Z'
 publication_types:
 - paper-conference
