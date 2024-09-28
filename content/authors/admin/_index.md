@@ -56,7 +56,7 @@ education:
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
 
-      During my master's, I was intrigued by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits and publishing two papers ([here]({{< relref "/publications/fanconi-2023-reads" >}}) and [here]({{< relref "/publications/hagmann-2022-two" >}})). Selected completed courses include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory. My master's thesis focused on detecting and removing biases in ML models.
+      During my master's, I was intrigued [Oral]({{< relref "/publications/vandenhirtz-2024-sctree" >}}) by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits and publishing two papers ([here]({{< relref "/publications/fanconi-2023-reads" >}}) and [here]({{< relref "/publications/hagmann-2022-two" >}})). Selected completed courses include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory. My master's thesis focused on detecting and removing biases in ML models.
   - area: Bachelor of Arts in Business and Economics
     institution: University of Zurich
     date_start: 2017-01-31
