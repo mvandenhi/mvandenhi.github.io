@@ -1,14 +1,13 @@
 ---
 title: Stochastic Concept Bottleneck Models
+profile: false
 
 authors:
 - admin copy
 - Sonia Laguna*
 - Ričards Marcinkevičs
 - Julia E Vogt
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: '2024-01-01'
 publishDate: '2024-09-28T10:59:44.416491Z'
 publication_types:
