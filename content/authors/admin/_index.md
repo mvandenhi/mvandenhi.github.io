@@ -43,10 +43,10 @@ education:
   - area: PhD Student in Machine Learning
     institution: ETH Zurich
     date_start: 2022-01-31
-    date_end: 2026
+    date_end: 2026-12-31
   - area: Master of Science in Statistics
     institution: ETH Zurich
-    date_start: 2020-31-01
+    date_start: 2020-01-31
     date_end: ''
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
