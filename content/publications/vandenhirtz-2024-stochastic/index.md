@@ -14,6 +14,6 @@ date: '2024-10-12'
 lastmod: '2024-09-28'
 publishDate: '2024-09-28T10:59:44.416491Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*'
 ---

@@ -14,6 +14,6 @@ date: '2023-05-04'
 lastmod: '2024-09-28'
 publishDate: '2024-09-28T09:59:44.386520Z'
 publication_types:
-- paper-conference
+- article
 publication: '*Spotlight @ Domain Generalization Workshop at ICLR 2023*'
 ---

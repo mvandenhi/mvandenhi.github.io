@@ -15,7 +15,7 @@ date: '2024-07-26'
 lastmod: '2024-09-28'
 publishDate: '2024-09-28T09:59:44.410467Z'
 publication_types:
-- paper-conference
+- article
 publication: '*Oral @ Efficient Foundation Models for Biological Discovery Workshop
   at ICML 2024*'
 ---
