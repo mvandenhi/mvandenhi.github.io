@@ -5,19 +5,11 @@ type: landing
 design:
   spacing: '5rem'
 
-content:
-  text: Test
-
 sections:
   - block: markdown
-    id: peer-reviewing
-    content:
-      title: Peer Reviewing
-      subtitle: 
-      text: |
-        - **2024** Neural Information Processing Systems
-        - **2024** Models of Human Feedback for AI Alignment Workshop at ICML
-        - **2023** Deep Generative Models for Health Workshop at NeurIPS
+    id: intro
+    content: 
+      text: I firmly believe that being a researcher goes far beyond just publishing papers. Through dedicated and engaging teaching, as well as mentoring students via thesis supervision, we can make a far greater impact than any single publication could achieve. As such, I purposely devote a substantial amount of my time to nurturing the growth of future researchers and other professionals.
   
   - block: markdown
     id: theses-supervision
@@ -45,5 +37,13 @@ sections:
         - **2023** Foundations of Computer Science (252-0852-00)
         - **2019 – 2022** Statistics (03SM22AOEC10)
         - **2019 – 2022** Introductory Econometrics (BOEC0004)
-
+  - block: markdown
+    id: peer-reviewing
+    content:
+      title: Peer Reviewing
+      subtitle: 
+      text: |
+        - **2024** Neural Information Processing Systems
+        - **2024** Models of Human Feedback for AI Alignment Workshop at ICML
+        - **2023** Deep Generative Models for Health Workshop at NeurIPS
 ---
