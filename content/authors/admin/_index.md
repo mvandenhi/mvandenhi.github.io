@@ -62,6 +62,7 @@ education:
     date_end: 2020-01-31
     summary: |
       GPA: 5.84 / 6 (Class Rank 2)
+      With a major in Banking & Finance and a minor in Statistics, my bachelor's has laid the foundation for my interest in quantitatively assessing and understanding the behavior of complex phenomena.
 work:
   - position: Data Science and Central Controlling Intern
     company_name: Allianz Suisse
@@ -70,7 +71,7 @@ work:
     date_start: 2019-08-31
     date_end: 2019-12-31
     summary: |2-
-      Responsibilities included:
+      My responsibilities included:
       - Forecasting
       - Implementation of new statistical methods
       - Communication of results
