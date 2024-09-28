@@ -27,7 +27,7 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Achievements
       username: admin
     design:
       # Hugo date format
