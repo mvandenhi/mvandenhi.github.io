@@ -44,6 +44,8 @@ education:
     institution: ETH Zurich
     date_start: 2022-01-31
     date_end: ''
+    summary: |
+      My research encompasses three main topics: Generative Modeling, Interpretability, and Computer Vision. 
   - area: Master of Science in Statistics
     institution: ETH Zurich
     date_start: 2020-01-31

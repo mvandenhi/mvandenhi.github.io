@@ -35,6 +35,7 @@ profiles:
     url: https://github.com/mvandenhi
 
 interests:
+  - name: Test
   - Generative AI 
   - Interpretable ML
   - Computer Vision
