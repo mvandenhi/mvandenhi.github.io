@@ -18,7 +18,7 @@ sections:
       date_format: '2006'
       # Education or Experience section first?
       is_education_first: true
-      color: navy
+      color: blue
   - block: resume-skills
     content:
       title: Skills 
