@@ -27,9 +27,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'moritz.vandenhirtz at inf.ethz.ch'
-    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.ch/citations?user=H2cG0BwAAAAJ&hl=en&oi=sra
   - icon: brands/linkedin
