@@ -5,7 +5,8 @@ type: landing
 design:
   spacing: '5rem'
 
-text: Test
+content:
+  text: Test
 
 sections:
   - block: markdown
