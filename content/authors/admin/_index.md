@@ -123,7 +123,7 @@ awards:
     awarder: ETH Zurich
   - title: Mentored by Swiss Study Foundation
     url: https://www.studyfoundation.ch/
-    date: 2021-2023
+    date: '2021-2023'
     awarder: Swiss Study Foundation
   - title: Summa cum Laude distinction by University of Zurich for B.A. in Business and Economics
     date: 2020
