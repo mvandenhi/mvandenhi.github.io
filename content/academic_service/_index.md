@@ -9,7 +9,7 @@ sections:
       title: Teaching
       items:
         - name: Computer Vision
-        - date: 2020-01-01
+          date: 2020-01-01
         - name: Deep Learning
         - name: Foundation Models
         - name: Generative AI
