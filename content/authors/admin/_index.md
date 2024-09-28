@@ -102,7 +102,7 @@ skills:
 awards:
   - title: Oral and 6 Posters at ICML Workshops
     url: https://icml.cc/virtual/2024/workshop/29969
-    date: '2024'
+    date: 2024
     awarder: ICML
   - title: Spotlight Poster at NeurIPS
     url: https://neurips.cc/virtual/2023/poster/71188
