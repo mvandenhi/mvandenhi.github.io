@@ -20,7 +20,12 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /content/publications/**
+    profile: false
+    
 build:
   writeStats: true
 enableGitInfo: false
