@@ -140,4 +140,4 @@ awards:
 
 ## About Me
 
-I am a PhD student in Computer Science at ETH Zurich under the supervision of Prof. Julia Vogt and Prof. Bjoern Menze. I am member of the Medical Data Science group and the ETH AI Center. My research focuses on incorporating domain knowledge into generative models, as well as designing interpretable methods whose behavior is human-understandable.
+I am a PhD student in Computer Science at ETH Zurich under the supervision of Prof. Julia Vogt and Prof. Bjoern Menze. I am a member of the Medical Data Science group and associated with the ETH AI Center. My research focuses on incorporating domain knowledge into generative models, as well as designing interpretable methods that provide insights into the inner workings of ML models.
