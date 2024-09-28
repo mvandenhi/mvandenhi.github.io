@@ -56,15 +56,15 @@ education:
     summary: |
       GPA: 5.98 / 6 (Class Rank 1)
 
-      During my master's, I was intrigued by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits. Selected completed courses include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory
+      During my master's, I was intrigued by the capabilities of ML methods, which led me to go beyond the standard curriculum, earning over 30 additional credits and publishing two papers ([here]({{< relref "/publications/fanconi-2023-reads" >}}) and [here]({{< relref "/publications/hagmann-2022-two" >}})). Selected completed courses include Deep Learning, Medical Image Analysis, Natural Language Processing, Probabilistic Artificial Intelligence, Statistical Learning Theory. My master's thesis focused on detecting and removing biases in ML models.
   - area: Bachelor of Arts in Business and Economics
     institution: University of Zurich
     date_start: 2017-01-31
     date_end: 2020-01-31
     summary: |
       GPA: 5.84 / 6 (Class Rank 2)
-      
-      With a major in Banking & Finance and a minor in Statistics, my bachelor's has laid the foundation for my interest in quantitatively assessing and understanding the behavior of complex phenomena.
+
+      With a major in Banking & Finance and a minor in Statistics, my bachelor's has laid the foundation for my interest in quantitatively assessing and understanding the behavior of complex phenomena. My bachelor's thesis focused on predicting stock returns with high-dimensional generalized additive models.
 work:
   - position: Data Science and Central Controlling Intern
     company_name: Allianz Suisse
