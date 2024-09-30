@@ -109,14 +109,14 @@ skills:
         icon: devicon/matlab
   - name: Research
     items:
-      - name:  Computer Vision
-      - name:  Deep Learning
-      - name:  Foundation Models
-      - name:  Generative AI
-      - name:  Image Processing
-      - name:  Intepretability
-      - name:  Multimodality
-      - name:  NLP
+      - name: '  Computer Vision'
+      - name: '   Deep Learning'
+      - name: '   Foundation Models'
+      - name: '   Generative AI'
+      - name: '   Image Processing'
+      - name: '   Intepretability'
+      - name: '   Multimodality'
+      - name: '   NLP'
 languages:
   - name: German
   - name: English
