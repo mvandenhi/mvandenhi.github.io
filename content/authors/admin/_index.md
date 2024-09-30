@@ -112,12 +112,19 @@ skills:
       - name: Computer Vision
         icon: custom/blank
       - name: Deep Learning
+        icon: custom/blank
       - name: Foundation Models
+        icon: custom/blank
       - name: Generative AI
+        icon: custom/blank
       - name: Image Processing
-      - name: Intepretability
+        icon: custom/blank
+      - name: Interpretability
+        icon: custom/blank
       - name: Multimodality
+        icon: custom/blank
       - name: NLP
+        icon: custom/blank
 languages:
   - name: German
   - name: English
