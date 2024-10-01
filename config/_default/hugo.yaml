@@ -59,6 +59,7 @@ imaging:
   resampleFilter: lanczos
   quality: 100
   anchor: smart
+  resize: "600x"
 timeout: 600000
 taxonomies:
   author: authors
